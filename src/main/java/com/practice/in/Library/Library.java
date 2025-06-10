@@ -1,4 +1,4 @@
-package com.practice.in.java.OOPS.Library;
+package com.practice.in.Library;
 
 import java.util.ArrayList;
 import java.util.List;

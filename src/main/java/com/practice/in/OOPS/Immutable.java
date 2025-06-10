@@ -1,4 +1,4 @@
-package com.practice.in.java.OOPS;
+package com.practice.in.OOPS;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

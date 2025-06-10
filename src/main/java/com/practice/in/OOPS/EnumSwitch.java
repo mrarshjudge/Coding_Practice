@@ -1,4 +1,4 @@
-package com.practice.in.java.OOPS;
+package com.practice.in.OOPS;
 
 //Enum Usage in a Switch Case
 //Enums are immutable

@@ -1,4 +1,4 @@
-package com.practice.in.java.OOPS;
+package com.practice.in.OOPS;
 
 //Interface vs Abstract Class Demo
 public class InterfaceVSAbstractDemo extends RSDCollege {
